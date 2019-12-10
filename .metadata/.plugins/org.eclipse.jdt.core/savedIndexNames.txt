@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Schule\Programmieren\Java_Bergmann_Mitkov_Moeller\.metadata\.plugins\org.eclipse.jdt.core
+483824315.index
+172193778.index
+3316466471.index
+3353811681.index
+496996758.index
